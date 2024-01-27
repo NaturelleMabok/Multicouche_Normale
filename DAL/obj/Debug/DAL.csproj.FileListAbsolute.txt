@@ -1,0 +1,10 @@
+C:\Users\Naturelle\Desktop\IUC\PAM2\MULTICOUCHE\Normale_TIPAM2\DAL\bin\Debug\StudentDB.mdf
+C:\Users\Naturelle\Desktop\IUC\PAM2\MULTICOUCHE\Normale_TIPAM2\DAL\bin\Debug\StudentDB_log.ldf
+C:\Users\Naturelle\Desktop\IUC\PAM2\MULTICOUCHE\Normale_TIPAM2\DAL\bin\Debug\DAL.dll.config
+C:\Users\Naturelle\Desktop\IUC\PAM2\MULTICOUCHE\Normale_TIPAM2\DAL\bin\Debug\DAL.dll
+C:\Users\Naturelle\Desktop\IUC\PAM2\MULTICOUCHE\Normale_TIPAM2\DAL\bin\Debug\DAL.pdb
+C:\Users\Naturelle\Desktop\IUC\PAM2\MULTICOUCHE\Normale_TIPAM2\DAL\bin\Debug\BLL.dll
+C:\Users\Naturelle\Desktop\IUC\PAM2\MULTICOUCHE\Normale_TIPAM2\DAL\bin\Debug\BLL.pdb
+C:\Users\Naturelle\Desktop\IUC\PAM2\MULTICOUCHE\Normale_TIPAM2\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Naturelle\Desktop\IUC\PAM2\MULTICOUCHE\Normale_TIPAM2\DAL\obj\Debug\DAL.dll
+C:\Users\Naturelle\Desktop\IUC\PAM2\MULTICOUCHE\Normale_TIPAM2\DAL\obj\Debug\DAL.pdb

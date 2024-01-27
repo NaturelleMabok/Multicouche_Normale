@@ -1,0 +1,5 @@
+C:\Users\Naturelle\Desktop\IUC\PAM2\MULTICOUCHE\Normale_TIPAM2\BLL\bin\Debug\BLL.dll
+C:\Users\Naturelle\Desktop\IUC\PAM2\MULTICOUCHE\Normale_TIPAM2\BLL\bin\Debug\BLL.pdb
+C:\Users\Naturelle\Desktop\IUC\PAM2\MULTICOUCHE\Normale_TIPAM2\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Naturelle\Desktop\IUC\PAM2\MULTICOUCHE\Normale_TIPAM2\BLL\obj\Debug\BLL.dll
+C:\Users\Naturelle\Desktop\IUC\PAM2\MULTICOUCHE\Normale_TIPAM2\BLL\obj\Debug\BLL.pdb
